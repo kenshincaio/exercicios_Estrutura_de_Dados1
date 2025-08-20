@@ -1,4 +1,5 @@
 //Caio Yamada RA: CV309510X
+
 #include<stdio.h>
 
 int main(){
@@ -27,4 +28,5 @@ int main(){
     } else {
         printf("Os numeros nao estao em ordem.\n");
     }
+    return 0;
 }
