@@ -1,4 +1,4 @@
-//Caio Kenshin Souza Yamada RA: CV309510X
+//Caio Yamada RA: CV309510X
 
 #include<stdio.h>
 
@@ -18,7 +18,7 @@ int main() {
         printf("O valor do array2[%i] = %i\n", i, array2[i]);
     }
     return 0;
-
 }
+
 
 
